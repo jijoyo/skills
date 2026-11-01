@@ -15,10 +15,10 @@ and sold on the [Agensi marketplace](https://agensi.io). This repository is a
 | [MCP Auth Bridge](https://agensi.io/skills/mcp-auth-bridge-connect-oauth-mcp-servers-to-opencode) | Connect OAuth MCP servers to your agent without the login ceremony — a local OAuth2 bridge | $7.99 |
 | [Colab GPU Relay](https://agensi.io/skills/colab-gpu-relay) | Turns a free Colab T4 into a job queue for heavy local workloads (bulk data, ML runs) and relays results home | $4.99 |
 | [Ask Your Corpus](https://agensi.io/skills/ask-your-corpus) | Zero-dependency search over any folder of `.md`/`.txt` files — gives your agent private corpus memory without a vector database | $4.99 |
+| [YouTube Knowledge Factory](https://agensi.io/skills/youtube-knowledge-factory) | Turn YouTube channels you follow into a clean, searchable local transcript corpus — a polite radar, an SRT-to-clean-Markdown converter, a local dashboard; watch zero videos | $9.99 |
 
-*Under review:* **YouTube Knowledge Factory** — turn YouTube channels you follow
-into a clean, searchable local transcript corpus (polite radar, 6,500+
-transcripts grew this method).
+*In review:* **Project Indexer** — one small note per folder → INDEX.md;
+agents stop re-exploring the repo every session. Listed the moment it clears.
 
 ## How to buy
 
