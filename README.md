@@ -16,9 +16,11 @@ and sold on the [Agensi marketplace](https://agensi.io). This repository is a
 | [Colab GPU Relay](https://agensi.io/skills/colab-gpu-relay) | Turns a free Colab T4 into a job queue for heavy local workloads (bulk data, ML runs) and relays results home | $4.99 |
 | [Ask Your Corpus](https://agensi.io/skills/ask-your-corpus) | Zero-dependency search over any folder of `.md`/`.txt` files — gives your agent private corpus memory without a vector database | $4.99 |
 | [YouTube Knowledge Factory](https://agensi.io/skills/youtube-knowledge-factory) | Turn YouTube channels you follow into a clean, searchable local transcript corpus — a polite radar, an SRT-to-clean-Markdown converter, a local dashboard; watch zero videos | $9.99 |
+| [Project Indexer](https://agensi.io/skills/project-indexer) | One small note per folder → INDEX.md: agents and humans stop re-exploring the repo every session | $4.99 |
 
-*In review:* **Project Indexer** — one small note per folder → INDEX.md;
-agents stop re-exploring the repo every session. Listed the moment it clears.
+*In review:* **Capacitor Deploy Ritual** — the Capacitor Android deploy chain
+with a bundle proof that refuses to install an APK that doesn't carry your
+change. Listed the moment it clears.
 
 ## How to buy
 
