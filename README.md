@@ -20,7 +20,9 @@ and sold on the [Agensi marketplace](https://agensi.io). This repository is a
 
 *In review:* **Capacitor Deploy Ritual** — the Capacitor Android deploy chain
 with a bundle proof that refuses to install an APK that doesn't carry your
-change. Listed the moment it clears.
+change. **Codebase Comprehension** — four labeled layers (scan → modules →
+flow → deep dive), each with a token budget and a written exit criterion,
+ending in an architecture report. Both listed the moment they clear.
 
 ## How to buy
 
