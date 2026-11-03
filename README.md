@@ -22,8 +22,7 @@ and sold on the [Agensi marketplace](https://agensi.io). This repository is a
 | [Project Indexer](https://agensi.io/skills/project-indexer) | One small note per folder → INDEX.md: agents and humans stop re-exploring the repo every session | $4.99 |
 | [Session Contract Generator](https://agensi.io/skills/session-contract-generator) | A one-page "session contract" generator that turns a plan-MD into a welcome sheet (bautizo, presa, gates, huella) so an agent or model can start a session oriented and stay on track — fully offline, no board needed | Free |
 | [Orchestrator-Worker Pattern](https://agensi.io/skills/orchestrator-worker-pattern) | A pattern for processing large data that exceeds an LLM's context: the LLM acts as an orchestrator that writes a small worker script, and the worker iterates element-by-element, calling a light model per element. Includes a ready-to-adapt generic worker template | Free |
-
-*In review:* **Lázaro Forwarder** — a transparent forwarder (kvproxy) + protocol for live inter-agent communication: wake the sleeping one, don't interrupt the awake one. Works with local LLMs (llama.cpp/router) and cloud APIs. $4.99.
+| [Lázaro Forwarder](https://agensi.io/skills/l-zaro-forwarder) | A transparent forwarder (kvproxy) + protocol for live inter-agent communication: wake the sleeping one, don't interrupt the awake one. Works with local LLMs (llama.cpp/router) and cloud APIs | $4.99 |
 
 ## How to buy
 
